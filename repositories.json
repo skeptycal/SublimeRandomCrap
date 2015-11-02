@@ -1,0 +1,30 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "details": "https://github.com/facelessuser/SublimeRandomCrap",
+            "releases": [
+                {
+                    "sublime_text": ">=3000",
+                    "branch": "master"
+                }
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "name": "markdown",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "Python Markdown module",
+            "issues": "https://github.com/facelessuser/sublime-markdown/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-markdown",
+                    "branch": "master",
+                    "sublime_text": ">=3000"
+                }
+            ]
+        }
+    ]
+}
