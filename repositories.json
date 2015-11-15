@@ -27,6 +27,20 @@
             ]
         },
         {
+            "name": "backrefs",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "Backrefs regular expression wrapper.",
+            "issues": "https://github.com/facelessuser/sublime-backrefs/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-backrefs",
+                    "branch": "master",
+                    "sublime_text": ">=3000"
+                }
+            ]
+        },
+        {
             "name": "mdpopups",
             "author": "facelessuser",
             "load_order": "55",
@@ -36,7 +50,7 @@
                 {
                     "base": "https://github.com/facelessuser/sublime-markdown-popups",
                     "branch": "master",
-                    "sublime_text": ">=3000"
+                    "sublime_text": ">=3080"
                 }
             ]
         }
