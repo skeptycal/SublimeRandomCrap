@@ -13,7 +13,7 @@
     ],
     "dependencies": [
         {
-            "name": "sublime-markdown",
+            "name": "python-markdown",
             "author": "facelessuser",
             "load_order": "50",
             "description": "Python Markdown module",
