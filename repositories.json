@@ -9,6 +9,13 @@
                     "branch": "master"
                 }
             ]
+        },
+        {
+            "details": "https://github.com/facelessuser/PyMdown",
+            "releases": [
+                "sublime_text": ">=3000",
+                "branch": "master"
+            ]
         }
     ],
     "dependencies": [
