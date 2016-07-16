@@ -13,8 +13,10 @@
         {
             "details": "https://github.com/facelessuser/PyMdown",
             "releases": [
-                "sublime_text": ">=3000",
-                "branch": "master"
+                {
+                    "sublime_text": ">=3000",
+                    "branch": "master"
+                }
             ]
         }
     ],
