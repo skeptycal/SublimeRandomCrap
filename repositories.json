@@ -36,6 +36,19 @@
             ]
         },
         {
+            "name": "python-gntp",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "GNTP Python Library",
+            "issues": "https://github.com/facelessuser/sublime-gntp/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-gntp",
+                    "branch": "master"
+                }
+            ]
+        },
+        {
             "name": "backrefs",
             "author": "facelessuser",
             "load_order": "50",
