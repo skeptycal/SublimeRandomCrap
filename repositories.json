@@ -18,6 +18,15 @@
                     "branch": "master"
                 }
             ]
+        },
+        {
+            "details": "https://github.com/facelessuser/sublime-gntp",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master"
+                }
+            ]
         }
     ],
     "dependencies": [
@@ -44,7 +53,8 @@
             "releases": [
                 {
                     "base": "https://github.com/facelessuser/sublime-gntp",
-                    "branch": "master"
+                    "branch": "master",
+                    "sublime_text": "*"
                 }
             ]
         },
