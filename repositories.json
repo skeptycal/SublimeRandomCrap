@@ -27,6 +27,16 @@
                     "branch": "master"
                 }
             ]
+        },
+        {
+            "details": "https://github.com/facelessuser/sublime-regex",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "branch": "master",
+                    "platforms": ["osx", "windows"]
+                }
+            ]
         }
     ],
     "dependencies": [
@@ -41,6 +51,21 @@
                     "base": "https://github.com/facelessuser/sublime-markdown",
                     "branch": "master",
                     "sublime_text": ">=3000"
+                }
+            ]
+        },
+        {
+            "name": "regex",
+            "author": "facelessuser",
+            "load_order": "50",
+            "description": "Regex Module",
+            "issues": "https://github.com/facelessuser/sublime-regex/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-regex",
+                    "branch": "master",
+                    "sublime_text": ">=3000",
+                    "platforms": ["osx", "windows"]
                 }
             ]
         },
