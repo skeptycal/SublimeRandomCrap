@@ -108,6 +108,20 @@
                     "sublime_text": ">=3080"
                 }
             ]
+        },
+        {
+            "name": "pymdownx",
+            "author": "facelessuser",
+            "load_order": "55",
+            "description": "PyMdown Extensions",
+            "issues": "https://github.com/facelessuser/sublime-pymdownx/issues",
+            "releases": [
+                {
+                    "base": "https://github.com/facelessuser/sublime-pymdownx",
+                    "branch": "master",
+                    "sublime_text": ">=3000"
+                }
+            ]
         }
     ]
 }
