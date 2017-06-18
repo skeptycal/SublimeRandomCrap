@@ -112,7 +112,7 @@
         {
             "name": "pymdownx",
             "author": "facelessuser",
-            "load_order": "55",
+            "load_order": "50",
             "description": "PyMdown Extensions",
             "issues": "https://github.com/facelessuser/sublime-pymdownx/issues",
             "releases": [
